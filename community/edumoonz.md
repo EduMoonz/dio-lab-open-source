@@ -1,6 +1,6 @@
 <h1> 
-  <a href="https://www.linkedin.com/in/tauangabriel/" style="color: #f00 !important; text-decoration: none; color: inherit;">
-    <span>Tauan Gabriel G. Cavalcanti</span>
+  <a href="[https://www.linkedin.com/in/tauangabriel/](https://www.linkedin.com/in/carlos-eduardo-rodrigues-santos-1a8899205/)" style="color: #f00 !important; text-decoration: none; color: inherit;">
+    <span>Carlos Eduardo R. Santos</span>
   </a>
 </h1>
 
